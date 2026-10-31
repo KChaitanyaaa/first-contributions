@@ -1331,6 +1331,7 @@ vijyot silare
 - [ivv12] Venya Velmurugan (https://github.com/ivv12)
 - [Wick](https://github.com/vick42uho)
 - [Sunil Sonu](https://github.com/sunilsonumonu12)
+- Krishna Chaitanya: (https://github.com/KChaitanyaaa)
 - [AK-1996](https://github.com/AK-1996)
 - [Andres Lopez](https://github.com/AndresLopez701)
 - [Jun Yokoyama](https://github.com/BalaneML)
